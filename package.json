@@ -1,0 +1,19 @@
+{
+  "name": "some-try",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.6.4"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^2.2.4",
+    "axios": "0.26.0",
+    "currying-request": "^0.0.2",
+    "p-limit": "^4.0.0",
+    "vite-plugin-md": "^0.11.9",
+    "vue": "^3.2.31"
+  }
+}
